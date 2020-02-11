@@ -1,0 +1,172 @@
+/*base*/
+.d-flex {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.p-relative{
+	position: relative;
+}
+.p-absolute{
+	position: absolute;
+}
+
+/*heder*/
+.logo{
+
+margin: 5%;
+}
+.navigation{
+	margin-right: 15%;
+
+
+}
+
+.nav-ul{
+display: flex;
+
+}
+.nav-li{
+margin-right: 8%;
+white-space: nowrap;
+font-family: "ALK Rounded Nusx Med", sans-serif;
+font-family: "Roboto", sans-serif;
+
+
+}
+
+/*conteiner 1*/
+
+
+
+.container1{
+	display: flex;
+	justify-content: center;
+
+	
+
+}
+.wraper-logo{
+	margin: -3% 0% 5% 0%;
+	width:90%;
+}
+.white-box {
+position: absolute;
+bottom: 14%;
+right: 5%;
+height: 50%;
+width: 40%;
+background-color: #fff;
+}
+
+.title{
+font-size: 200%;
+padding: 2%;
+font-family: "BPG Nateli", sans-serif;
+}
+
+.title-p{
+margin: 5%;
+font-family: "BPG Nateli", sans-serif;
+}
+
+/*container2*/
+
+.container2{
+	display: flex;
+	justify-content:center;
+}
+
+.img{
+ width: 100%;
+
+}
+
+.box-1 {
+  margin: 3% 4.3% 5% 5%;
+ border: 0.1px solid;
+ border-color:#707070;
+
+
+}
+
+.box-title{
+	padding: 1%;
+	font-size:170%;
+	font-family: "BPG Nateli", sans-serif;
+
+}
+.box-statia{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-family: "BPG Nateli", sans-serif;
+}
+
+.more{
+	margin-left: 85%;
+	text-decoration: none;
+	color: inherit;
+	font-family: "Roboto", sans-serif;
+
+}
+.loadmore{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2%;
+	color: inherit;
+	font-family: "Roboto", sans-serif;
+}
+
+/*conteiner3*/
+.lastadd{
+
+font-size: 150%;
+margin-left: 5%;
+margin-bottom:3%;
+white-space: nowrap;
+font-family: "BPG Nateli", sans-serif;
+
+
+}
+
+/*footer*/
+
+.footer{
+	display: flex;
+	justify-content:space-between;
+	height: 40%;
+	width: 100%;
+	background-color: #2E2E2E;
+}
+.box-size{
+	margin: 4%
+
+}
+
+.contact{
+	margin: 4%;
+	font-family: "BPG Nateli", sans-serif;
+}
+
+.contact-info-text{
+	font-size: 160%;
+
+}
+
+.tel{
+font-size: 130%;
+color: inherit;
+
+
+}
+.maps{
+	font-size: 130%;
+color: inherit;
+
+}
+
+.social{
+	display: inline-block;
+}
+
